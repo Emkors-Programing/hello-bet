@@ -1,2 +1,1 @@
-# hello-bet
-Bet platform 
+# hello
